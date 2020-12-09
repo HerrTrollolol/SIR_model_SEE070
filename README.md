@@ -1,4 +1,4 @@
-SIR_model_SEE070
+Covid Project Group 14 - Trollolol
 
 # This repository has been prepared for the Introduction to Global Systems course.
 
